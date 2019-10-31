@@ -54,8 +54,6 @@ html, body {
   height: 100%;
   cursor: pointer;
   cursor: move;
-  cursor: -moz-grab;
-  cursor: -webkit-grab;
   cursor: grab;
 }
 
@@ -123,5 +121,4 @@ html, body {
 a {
   color: #ff5f5f;
 }
-
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
